@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/LeapYear.Solution/LeapYear.Tests/bin/Debug/netcoreapp1.1/leapYear.Tests.deps.json
+/Users/Guest/Desktop/LeapYear.Solution/LeapYear.Tests/bin/Debug/netcoreapp1.1/leapYear.Tests.runtimeconfig.json
+/Users/Guest/Desktop/LeapYear.Solution/LeapYear.Tests/bin/Debug/netcoreapp1.1/leapYear.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/LeapYear.Solution/LeapYear.Tests/obj/Debug/netcoreapp1.1/leapYear.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/LeapYear.Solution/LeapYear.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/LeapYear.Solution/LeapYear.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/LeapYear.Solution/LeapYear.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/LeapYear.Solution/LeapYear.Tests/bin/Debug/netcoreapp1.1/leapYear.Tests.dll
+/Users/Guest/Desktop/LeapYear.Solution/LeapYear.Tests/bin/Debug/netcoreapp1.1/leapYear.Tests.pdb
+/Users/Guest/Desktop/LeapYear.Solution/LeapYear.Tests/bin/Debug/netcoreapp1.1/LeapYear.dll
+/Users/Guest/Desktop/LeapYear.Solution/LeapYear.Tests/bin/Debug/netcoreapp1.1/LeapYear.pdb
+/Users/Guest/Desktop/LeapYear.Solution/LeapYear.Tests/obj/Debug/netcoreapp1.1/leapYear.Tests.dll
+/Users/Guest/Desktop/LeapYear.Solution/LeapYear.Tests/obj/Debug/netcoreapp1.1/leapYear.Tests.pdb
